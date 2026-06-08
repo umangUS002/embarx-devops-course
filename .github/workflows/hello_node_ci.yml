@@ -1,4 +1,4 @@
-name: Second CI
+name: app1-hello/node
 
 on:
     push:
